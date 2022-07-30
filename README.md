@@ -1,5 +1,5 @@
 <h1 align="center">Russian Roulette</h1>
-<h3 align="center">This is my first game. It works entirely in Python using the `Pygame` library. It took me 5 days to complete the development.</h3>
+<h3 align="center">This is my first game. It works entirely in Python using the Pygame library. It took me 5 days to complete the development.</h3>
 <p align="right">P.S. It is possible to use irrational techniques😅</p>
 
 <h3 align="center">Demonstration</h3>
